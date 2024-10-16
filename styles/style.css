@@ -19,13 +19,13 @@ main {
 }
 
 @media (height: 812px) {
-  .qr-card {
+  main {
     margin-top: 156.5px;
   }
 }
 
 @media (height: 960px) {
-  .qr-card {
+  main {
     margin-top: 230.5px;
   }
 }
