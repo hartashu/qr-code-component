@@ -1,3 +1,10 @@
+:root {
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-slate300: hsl(212, 45%, 89%);
+  --clr-slate500: hsl(216, 15%, 48%);
+  --clr-slate900: hsl(218, 44%, 22%);
+}
+
 * {
   font-family: Outfit, Arial;
   box-sizing: border-box;
@@ -5,13 +12,13 @@
 }
 
 body {
-  background-color: hsl(212, 45%, 89%);
+  background-color: var(--clr-slate300);
 }
 
 .qr-card {
   width: 320px;
   height: 499px;
-  background-color: white;
+  background-color: var(--clr-white);
   border-radius: 20px;
 
   position: absolute;
@@ -39,13 +46,13 @@ body {
 }
 
 .title {
-  color: hsl(218, 44%, 22%);
-  font-size: 20px;
+  color: var(--clr-slate900);
+  font-size: 22px;
   font-weight: bold;
   margin-bottom: 1rem;
 }
 
 .subtitle {
-  color: hsl(216, 15%, 48%);
+  color: var(--clr-slate500);
   font-size: 15px;
 }
