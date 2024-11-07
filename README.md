@@ -33,22 +33,48 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS grid
+- Mobile-first workflow
 
 ### What I learned
 
-- Learn about centering a container horizontally and vertically by using flex box or position absolute
-- Learn about CSS variable, CSS unit, transform property, position property, and other HTML & CSS skills.
+- Centering card horizontally and vertically.
+- Custom properties, CSS units, transform property, position property, and so on.
+- Proper semantic HTML (still a lot to learn about this).
+- CSS Methology (BEM - Block Element Modifier).
 
 ### Continued development
 
-Keep learning and improving in every aspect.
+- Semantics HTML and accessibility
+- CSS BEM (Block Element Modifier)
+- Utility classes in CSS
 
 ### Useful resources
 
-- [HTML & CSS Course by SuperSimpleDev](https://youtu.be/G3e-cpL7ofc?si=4xxA1hw_5mU_9-aX) - Recommended for getting started with HTML & CSS from zero.
-- [Git & GitHub Tutorial by SuperSimpleDev](https://youtu.be/hrTQipWp6co?si=HIO_1gWZHOGBGxDH) - Helped me understanding about work with Git and GitHub.
-- [Learn CSS Units](https://youtu.be/-GR52czEd-0?si=qHL5x0IH4GpsBNtq) - Easy to understand about CSS units.
-- [Learn CSS Transform](https://youtu.be/rzD-cPhq02E?si=MpCFcO-d6k9C4QKo) - Simply explained about CSS transform.
+Getting started with HTML & CSS:
+- [HTML & CSS Course by SuperSimpleDev](https://youtu.be/G3e-cpL7ofc?si=4xxA1hw_5mU_9-aX)
+
+Git & GitHub:
+- [Git & GitHub Tutorial by SuperSimpleDev](https://youtu.be/hrTQipWp6co?si=HIO_1gWZHOGBGxDH)
+
+Semantics:
+- [HTML Semantics Cheat Sheet](https://learntheweb.courses/topics/html-semantics-cheat-sheet/)
+
+All about CSS:
+- [CSS Units](https://youtu.be/-GR52czEd-0?si=qHL5x0IH4GpsBNtq)
+- [CSS Transform](https://youtu.be/rzD-cPhq02E?si=MpCFcO-d6k9C4QKo)
+- [The difference between max-inline-size and max-width property](https://css-tricks.com/almanac/properties/m/max-inline-size/)
+- [CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) - CSS reset.
+- [Checking alt attribute](https://www.kevinpowell.co/article/a-cool-trick-for-checking-for-alt-attribute/)
+
+All about BEM (Block Element Modifier):
+- [Introduction to BEM](https://getbem.com/introduction/)
+- [BEM 101](https://css-tricks.com/bem-101/)
+- [BEM by Varvara from Yandex](https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/#comments-a-new-front-end-methodology-bem)
+
+Responsive Web Design (RWB):
+- [Responsive Web Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- [Responsive layout by Kevin Powell](https://courses.kevinpowell.co/conquering-responsive-layouts)
 
 ## Author
 

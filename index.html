@@ -5,26 +5,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="style-copy.css">
   
   <title>Frontend Mentor | QR code component</title>
-
-  <link rel="stylesheet" href="style.css">
-
 </head>
 <body>
 
-  <main>
-    <section class="qr-card">
-      <img class="qr-code" src="images/image-qr-code.png" alt="QR Code">
-      <h1 class="title outfit-bold">Improve your front-end skills by building projects</h1>
-      <div class="subtitle outfit-regular">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</div>
-    </section>
-  
+  <main class="main">
+    <article class="card">
+      <div class="card__media">
+        <picture>
+          <img src="images/image-qr-code.png" alt="QR code to visit Frontend Mentor"
+            class="card__img">
+        </picture>
+      </div>
+      <div class="card__content">
+        <h1 class="card__title">Improve your front-end skills by building projects</h1>
+        <p class="card__desc">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+      </div>
+    </article>
+  </main>
+
+  <footer>
     <div class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
       Coded by <a href="#">Harta Shuwanto</a>.
     </div>
-  </main>
+  </footer>
 
 </body>
 </html>
