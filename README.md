@@ -28,6 +28,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+I used BEM for the naming convention.
+> card
+>   card__media
+>     card__img
+>   card__text
+>     card__title
+>     card__desc
+
 ### Built with
 
 - Semantic HTML5 markup
